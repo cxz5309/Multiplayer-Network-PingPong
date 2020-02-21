@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6053098638",
+    "firebase_url": "https://test-8173d.firebaseio.com",
+    "project_id": "test-8173d",
+    "storage_bucket": "test-8173d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6053098638:android:b2f89892d0a483ab1bc5df",
+        "android_client_info": {
+          "package_name": "com.young.pingpong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6053098638-ojrd4alissp4otcgabhkpp2uvt36tf4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.young.pingpong",
+            "certificate_hash": "f50fd3a8cbe86fd9ebfe082c2a77ff8bac76f0f3"
+          }
+        },
+        {
+          "client_id": "6053098638-h58fd2f6680gbc3vt6nnlg0fmghauhqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxkcZrbUzzHrskj8IU0eviflTzNtrTUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6053098638-h58fd2f6680gbc3vt6nnlg0fmghauhqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
